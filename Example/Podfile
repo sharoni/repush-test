@@ -1,0 +1,6 @@
+use_frameworks!
+target 'repush-test_Tests' do
+  pod 'repush-test', :path => '../'
+  
+  
+end
