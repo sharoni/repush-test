@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 repush-test                       
 DESC
 
-  s.homepage         = 'https://github.com/Sarunas Kazlauskas/repush-test'
+  s.homepage         = 'https://github.com/sharoni/repush-test'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Sarunas Kazlauskas' => 'sharoni@fb.com' }
-  s.source           = { :git => 'https://github.com/Sarunas Kazlauskas/repush-test.git', :tag => s.version.to_s }
+  s.author           = { 'Sarunas Kazlauskas' => 'sarunas.kazlausks@gmail.com' }
+  s.source           = { :git => 'https://github.com/sharoni/repush-test.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
