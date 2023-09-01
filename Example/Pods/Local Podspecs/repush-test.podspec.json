@@ -1,0 +1,22 @@
+{
+  "name": "repush-test",
+  "version": "0.1.0",
+  "summary": "A short description of repush-test.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Sarunas Kazlauskas/repush-test",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Sarunas Kazlauskas": "sharoni@fb.com"
+  },
+  "source": {
+    "git": "https://github.com/Sarunas Kazlauskas/repush-test.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "repush-test/Classes/**/*"
+}
