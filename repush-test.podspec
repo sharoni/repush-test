@@ -22,7 +22,6 @@ Despite documentation saying it is not possible, people on SO say they had succe
 DESC
 
   s.homepage         = 'https://github.com/sharoni/repush-test'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Sarunas Kazlauskas' => 'sarunas.kazlausks@gmail.com' }
   s.source           = { :git => 'https://github.com/sharoni/repush-test.git', :tag => s.version.to_s }
